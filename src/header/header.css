@@ -1,0 +1,22 @@
+.topNav {
+    padding: 0 10px;
+    display: flex;
+}
+
+.logo{
+    width: 55px; height: 45px;
+    padding: 5px;
+}
+
+ul li {
+    float: left;
+    list-style: none;
+    padding: 0 15px;
+    color: white;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+ul li:hover {
+    color: rgb(113, 234, 255);
+}
